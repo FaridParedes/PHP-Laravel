@@ -1,0 +1,5 @@
+Color fondo de logo: #141414
+Color fuente de logo: #AE9279
+Color slogan de logo: #FFFFFF
+
+Colores a utilizar:  #000000  #4f3e30  #9e7d60  #cebeaf  #ffffff 
